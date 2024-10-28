@@ -4,7 +4,7 @@ A brief description of what this project does and its purpose.
 
 ## Table of Contents
 
-- [Project Description](#About)
+- [About](#about)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
