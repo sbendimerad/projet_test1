@@ -4,11 +4,11 @@ A brief description of what this project does and its purpose.
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [About]
+- [Getting Started]
+- [Usage]
+- [Contributing]
+- [License]
 
 ## About
 
